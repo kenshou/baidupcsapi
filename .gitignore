@@ -6,6 +6,7 @@
 *.err
 *.pyc
 *.swp
+*.iml
 *#
 .DS_Store
 .svn
